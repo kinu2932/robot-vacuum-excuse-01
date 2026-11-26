@@ -9,7 +9,7 @@ import os
 
 EXCUSE = (
     "I missed that spot: the dust bunny unionised, "
-    "the rug filed a complaint, and my suction went on strike."
+    "the rug got a lawyer, and my suction went on strike."
 )
 
 
